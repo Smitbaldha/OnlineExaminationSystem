@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ddconnection",
+            "request": "launch",
+            "mainClass": "ddconnection",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch OnlineExaminationSystem",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.OnlineExaminationSystem",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.Signup",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch about",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.about",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch addnewquestion",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.addnewquestion",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch admin",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.admin",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch adminforgotpassword",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.adminforgotpassword",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch adminlogin",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.adminlogin",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch adminpanel",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.adminpanel",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch admsignup",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.admsignup",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch allquestion",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.allquestion",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch allresult",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.allresult",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch contact",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.contact",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch deletequestion",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.deletequestion",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exampage",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.exampage",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch instruction",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.instruction",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch mainpage",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.mainpage",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch stdforgotpassword",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.stdforgotpassword",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch stdlogin",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.stdlogin",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch student",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.student",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch successfullysubmit",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.successfullysubmit",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch supage",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.supage",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch tc",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.tc",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch timeset",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.timeset",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch updatequestion",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.updatequestion",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch wp",
+            "request": "launch",
+            "mainClass": "onlineexaminationsystem.wp",
+            "projectName": "OnlineExaminationSystem_d5fe3e2a"
+        }
+    ]
+}
